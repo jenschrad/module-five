@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"staffdb","l":"DatabaseConnector"},{"p":"staffdb","l":"Record"},{"p":"staffdb","l":"StaffDB"}];updateSearchResults();

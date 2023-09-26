@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"staffdb","c":"DatabaseConnector","l":"DatabaseConnector()","u":"%3Cinit%3E()"},{"p":"staffdb","c":"StaffDB","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"staffdb","c":"Record","l":"Record()","u":"%3Cinit%3E()"},{"p":"staffdb","c":"StaffDB","l":"StaffDB()","u":"%3Cinit%3E()"}];updateSearchResults();
